@@ -7,7 +7,7 @@ README ini menjelaskan struktur proyek, cara menjalankan buku secara lokal, sert
 ## 1. Struktur folder
 
 ```text
-ebook-template-quarto/
+ebook-statistika-quarto/
 ├── assets/
 │   ├── style.css
 │   └── preamble.tex

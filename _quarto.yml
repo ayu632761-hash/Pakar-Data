@@ -3,17 +3,17 @@ project:
   output-dir: docs
   resources:
     - .nojekyll
-    - images/author/Bakti.png
+    - images/author/Ayu'sfoto.jpg
     - epub-reader.html
     - assets/epub-reader.js
 
 book:
   title: "Quarto Template"
-  author: "Bakti Siregar, M.Sc."
+  author: "Ayu Rahmadani"
   date: today
   description: "Deskripsi singkat tentang buku"
   cover-image: images/Cover.png
-  repo-url: https://github.com/pakardata1/ebook-template-quarto.git
+  repo-url: https://github.com/ayu632761-hash/Pakar-Data?tab=readme-ov-file
   repo-actions: [edit, issue]
   sidebar:
     tools:
@@ -52,7 +52,7 @@ format:
     include-after-body: assets/hover-preview.html
     include-in-header:
       text: |
-        <meta name="author" content="Bakti Siregar, M.Sc.">
+        <meta name="author" content="Ayu Rahmadani">
   pdf:
     documentclass: book
     pdf-engine: xelatex
